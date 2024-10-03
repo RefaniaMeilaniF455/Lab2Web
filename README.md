@@ -15,5 +15,7 @@
 5. Membuat paragraf baru dengan perintah tag <p, meemiringkan kalimat menggunakan tag<i, dan menebalkan huruf menggunakan <b
 ![image](https://github.com/user-attachments/assets/5f165adb-df63-4ab7-8a5b-299654f99672)
 
-6.
+6. Menambahkan link baru bergunakan untuk membuat tombol dengan gaya utama yang, ketika diklik, akan membawa pengguna ke bagian tertentu pada halaman yang memiliki ID intro
+   dengan tag <a class="button btn-primary" href="#intro"
+![image](https://github.com/user-attachments/assets/73e02701-31a4-40ef-a063-d4d9176289d7)
 
