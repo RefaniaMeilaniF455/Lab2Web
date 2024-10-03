@@ -12,6 +12,6 @@
 4. Membuat judul baru dengan perintah <h1
 ![image](https://github.com/user-attachments/assets/d309c3f0-8451-497f-894a-6fc69ec11883)
 
-5. Membuat paragraf baru dengan perintah ttag <p
+5. Membuat paragraf baru dengan perintah tag <p, meemiringkan kalimat menggunakan tag<i
 ![image](https://github.com/user-attachments/assets/5f165adb-df63-4ab7-8a5b-299654f99672)
 
