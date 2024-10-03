@@ -6,7 +6,7 @@
 2. Membuat judul diawali dengan tag<h1 kemudia menambah tulisan miring dengan tag<i
 ![image](https://github.com/user-attachments/assets/e11a98f5-dc26-47b3-8300-658e1f5f7a25)
 
-3. Menambahkan hyperlink
+3. Menambahkan hyperlink <a href="lab2_css_dasar.html", <a href="lab2_css_eksternal.html", <a href="lab1_tag_dasar.html"
 ![image](https://github.com/user-attachments/assets/8c42481c-701a-4c89-8acd-d4f702387577)
 
 4. Membuat judul baru dengan perintah <h1
