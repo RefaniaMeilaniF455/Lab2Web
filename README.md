@@ -19,3 +19,8 @@
    dengan tag <a class="button btn-primary" href="#intro"
 ![image](https://github.com/user-attachments/assets/73e02701-31a4-40ef-a063-d4d9176289d7)
 
+7. Menambahkan atribut CSS kedalam HTML(Mengubah warna pada setiap header)
+![image](https://github.com/user-attachments/assets/35966181-3b81-4a60-9476-53d186fa4212)
+
+8. 
+
