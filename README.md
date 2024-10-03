@@ -9,3 +9,9 @@
 3. Menambahkan hyperlink
 ![image](https://github.com/user-attachments/assets/8c42481c-701a-4c89-8acd-d4f702387577)
 
+4. Membuat judul baru dengan perintah <h1
+![image](https://github.com/user-attachments/assets/d309c3f0-8451-497f-894a-6fc69ec11883)
+
+5. Membuat paragraf baru dengan perintah ttag <p
+![image](https://github.com/user-attachments/assets/5f165adb-df63-4ab7-8a5b-299654f99672)
+
