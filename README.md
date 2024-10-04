@@ -22,5 +22,7 @@
 7. Menambahkan atribut CSS kedalam HTML(Mengubah warna pada setiap header)
 ![image](https://github.com/user-attachments/assets/35966181-3b81-4a60-9476-53d186fa4212)
 
-8. 
+8. Menambahkan garis baru dengan perintah tag <border:bottom
+![image](https://github.com/user-attachments/assets/d084a8e9-c5ac-424c-9e64-1c81fa5bf109)
+
 
