@@ -28,5 +28,32 @@
 9. Menambahkan background dan memberi warna pada Hyperlink dengan manambahkan dok.css baru dan meenyalin link agar nampak pada tampilan browser. dan mengubah warna pada judul
 ![image](https://github.com/user-attachments/assets/5d419fc4-7c45-4517-9531-a55f6d0810e5)
 
+10. Mengubah background dengan menambahkan code dalam dokumen css kemudian ctrl+s
+![image](https://github.com/user-attachments/assets/9fed47d8-dc50-465c-bd9c-e0d5960165d5)
+
+11. Mengubah judul ke dua dengan tag <align=left dan mneegubah warnanya
+![image](https://github.com/user-attachments/assets/cb80fc26-40f1-4575-96a8-e7bdae2aacaf)
+
+12. Mengubah tampilan informasi selengkapnya dengan menambahkan tag pada isi css dan saya meenguubah lagi warna pada judul kedua
+![image](https://github.com/user-attachments/assets/341a58a7-1f70-4d4d-b5ad-8e2e6571f4ad)
+
+
+# Pertanyaan dan Tugas
+1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS
+dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
+2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan
+penjelasannya!
+3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada
+elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan
+penjelasan dan contohnya!
+4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut
+terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser?
+Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf")
+
+# Jawab !
+1. 
+
+
+
 
 
