@@ -56,8 +56,9 @@ Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf")
 
 2. h1 mengarahkan untuk semua element h1 dihalam web, sedangkan #intro h1 hanya mengarah pada element ID h1 (hanya element tertentu yang mengintro pada h1).
 
-3. 
+3. ketika kita menerapkan CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS, browser akan menentukan sendiri mana yang akan ditampilkan berdasarkan prioritas (specificity) dalam CSS
 
+4. 
 
 
 
