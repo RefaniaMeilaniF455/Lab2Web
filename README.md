@@ -25,4 +25,8 @@
 8. Menambahkan garis baru dengan perintah tag <border:bottom
 ![image](https://github.com/user-attachments/assets/d084a8e9-c5ac-424c-9e64-1c81fa5bf109)
 
+9. Menambahkan background dan memberi warna pada Hyperlink dengan manambahkan dok.css baru dan meenyalin link agar nampak pada tampilan browser. dan mengubah warna pada judul
+![image](https://github.com/user-attachments/assets/5d419fc4-7c45-4517-9531-a55f6d0810e5)
+
+
 
