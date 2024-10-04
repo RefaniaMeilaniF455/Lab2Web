@@ -52,7 +52,7 @@ Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf")
 
 # Jawab !
 1. disini saya mengubah sedikit pada bagian "Informasi selengkapnya.". saya membuat line menjadi lebih tajam dan nyata kemudian membuat sisi line sedikit melengkung
-![image](https://github.com/user-attachments/assets/aec7a9cb-4cdf-4ee1-a109-3ce718e94738)
+![image](https://github.com/user-attachments/assets/f5c264d7-a919-4920-b5a7-9ff0bd79a482)
 
 2. h1 mengarahkan untuk semua element h1 dihalam web, sedangkan #intro h1 hanya mengarah pada element ID h1 (hanya element tertentu yang mengintro pada h1).
 
