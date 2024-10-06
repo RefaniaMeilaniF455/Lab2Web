@@ -38,16 +38,10 @@
 
 
 # Pertanyaan dan Tugas
-1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS
-dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
-2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan
-penjelasannya!
-3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada
-elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan
-penjelasan dan contohnya!
-4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut
-terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser?
-Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf")
+1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSSdengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
+2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
+3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
+4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf")
 
 # Jawab !
 1. disini saya mengubah sedikit pada bagian "Informasi selengkapnya.". saya membuat line menjadi lebih tajam dan nyata kemudian membuat sisi line sedikit melengkung
@@ -56,10 +50,20 @@ Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf")
 2. h1 mengarahkan untuk semua element h1 dihalam web, sedangkan #intro h1 hanya mengarah pada element ID h1 (hanya element tertentu yang mengintro pada h1).
 
 3. ketika kita menerapkan CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS, browser akan menentukan sendiri mana yang akan ditampilkan berdasarkan prioritas (specificity) dalam CSS, namum biasanya yang tampak adalah bagian inline CSS. Karna tampilannya berada di depan web seperti background, contohnya ada pada gambar dibawah:
-![Uploading image.png…]()
+![Screenshot 2024-10-06 205511](https://github.com/user-attachments/assets/ed2272a2-4225-4e0e-81de-9c19c878229b)
 gambar ini terlihat jelas pada bagian ketiga hyperlink, ketika kita tidak mengklik salahsatuya yang hanya kelihatan adalah warna pada backgroundnya saja, padahal ketika kita klik pada bagian hyperlink ada tampilan warnanya lagi.
 
-4.
+4. ( <p id="paragraf-1" class="text-paragraf") 
+![image](https://github.com/user-attachments/assets/16b0f1c3-f79a-4d16-8090-121ff05625c4)
+disini saya mencoba untuk menambahkan paragraf baru dengan tag, p id="paragraf-1" class="text-paragraf"> Didalam kesulitan pasti ada kemudahan.</p ini saya terapkan pada text.html, kemudian pada bagian warna di text css
+#paragraf-1 {
+    color: rgb(133, 23, 113);
+}
+.text-paragraf {
+    color: rgb(233, 233, 233);
+}
+ dalam kode itu yang pertama saya memilih warna ungu muda dan warna kedua saya memilih warna putih, namun yang tampak pada web adalah warna ungu mudanya. Karna pada ID Selectornya adalah warna ungu muda.
+
 
 
 
