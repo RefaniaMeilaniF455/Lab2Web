@@ -53,16 +53,15 @@
 ![Screenshot 2024-10-06 205511](https://github.com/user-attachments/assets/ed2272a2-4225-4e0e-81de-9c19c878229b)
 gambar ini terlihat jelas pada bagian ketiga hyperlink, ketika kita tidak mengklik salahsatuya yang hanya kelihatan adalah warna pada backgroundnya saja, padahal ketika kita klik pada bagian hyperlink ada tampilan warnanya lagi.
 
-4. ( <p id="paragraf-1" class="text-paragraf") 
-![image](https://github.com/user-attachments/assets/16b0f1c3-f79a-4d16-8090-121ff05625c4)
-disini saya mencoba untuk menambahkan paragraf baru dengan tag, p id="paragraf-1" class="text-paragraf"> Didalam kesulitan pasti ada kemudahan.</p ini saya terapkan pada text.html, kemudian pada bagian warna di text css
+4. ( <p id="paragraf-1" class="text-paragraf") disini saya mencoba untuk menambahkan paragraf baru dengan tag, p id="paragraf-1" class="text-paragraf"> Didalam kesulitan pasti ada kemudahan.</p ini saya terapkan pada text.html, kemudian pada bagian warna di text css
 #paragraf-1 {
     color: rgb(133, 23, 113);
 }
 .text-paragraf {
     color: rgb(233, 233, 233);
 }
- dalam kode itu yang pertama saya memilih warna ungu muda dan warna kedua saya memilih warna putih, namun yang tampak pada web adalah warna ungu mudanya. Karna pada ID Selectornya adalah warna ungu muda.
+dalam kode itu yang pertama saya memilih warna ungu muda dan warna kedua saya memilih warna putih, namun yang tampak pada web adalah warna ungu mudanya. Karna pada ID Selectornya adalah warna ungu muda. hasinylnya seperti ini:
+![Screenshot 2024-10-06 220314](https://github.com/user-attachments/assets/c5fa99d1-14aa-4291-8f94-6e67b364bc18)
 
 
 
