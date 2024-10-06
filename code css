@@ -49,3 +49,10 @@ nav a:hover {
 .btn-primary:hover {
     background: #5e1a4f;
 }
+paragraf-1 {
+    color: rgb(133, 23, 113);
+}
+.text-paragraf {
+    color: rgb(233, 233, 233);
+}
+
