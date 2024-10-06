@@ -40,6 +40,7 @@
         <h1>Hello World</h1>
         <p>Kami sedangan belajar HTML dan CSS dasar, pada mata kuliah<b> Pemograman Web<br>
         </b> di <i>Universitas Pelita Bangsa</i>.Pelajaran pertama yang kami dapat adalah membuat<br> tampilan web sederhana dalam rangka mengenal tag-tag dasar HTML dan CSS.</p>
+        <p id="paragraf-1" class="text-paragraf">Didalam kesulitan pasti ada kemudahan.</p>
      <!--CSS Class Selector-->
         <a class="button btn-primary" href="#intro">Informasi selengkapnya.</a>
 </body>
